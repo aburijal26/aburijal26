@@ -1,6 +1,6 @@
 👋 Hi, I’m Abu Rijal.
 
-👀 I’m interested in Data and IT Support. I have a passion for exploring and analyzing data to extract valuable insights, as well as providing technical support to ensure smooth and efficient operation of various systems.
+👀 I’m interested in Data and IT. I have a passion for exploring and analyzing data to extract valuable insights, as well as providing technical support to ensure smooth and efficient operation of various systems.
 
 🌱 I’m currently learning about data analytics and IT support, both through my studies and hands-on experience. I am eager to continue developing my skills and knowledge in these areas.
 
